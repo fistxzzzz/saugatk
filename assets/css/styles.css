@@ -17,6 +17,9 @@ section{
 	padding-bottom: 3rem;
 }
 
+.avatar:hover {
+	box-shadow: 0 0 5px 1px red;
+  }
 
 
 .section-1 {
@@ -61,9 +64,8 @@ a.nav-item:hover {
 }
 
 .social-container img{
-	max-width:100%;
-	max-height:175px;
-	margin-bottom:15px;
+	max-width:200px;
+	max-height:100px;
 }
 
 .project-figure {
@@ -77,17 +79,7 @@ a.nav-item:hover {
 	text-align: justify;
 	color: black;
 }
-.button {
-	cursor: pointer;
-    text-align: bottom;
-    background: #0071e3;
-    color: #fff;
-    border-radius: 980px;
-    font-size: 12px;
-    font-weight: 400;
-    letter-spacing: -.01em;
-    min-width: 23px;
-  }
+
 
 
 .box {
