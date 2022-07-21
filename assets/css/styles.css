@@ -40,7 +40,10 @@ section{
 }
 
 .avatar:hover {
-	box-shadow: 0 0 5px 1px red;
+	box-shadow: 0 0 5px 1px greenyellow;
+	opacity: 0.9;
+	transform: scale(1.02);
+	transition: all 100ms ease-in-out;
   }
 
 
@@ -74,6 +77,8 @@ a.nav-item {
 
 a.nav-item:hover {
 	color: #fff;
+	transform: scale(1.026);
+	transition: all 100ms ease-in-out;
 }
 
 .title_word {
@@ -82,7 +87,7 @@ a.nav-item:hover {
 }
 
 .title_word:hover {
-	color:red
+	color:red;
 }
 
 .words_title {
@@ -133,7 +138,7 @@ a.nav-item:hover {
 
 .box:hover {
 	box-shadow: 0 0 5px 3px powderblue;
-	transition: all 50ms ease-in-out;
+	transform: scale(1.03);
 }
 
 .title {
