@@ -29,6 +29,7 @@ a {
 	transition: transform 0.25s ease-out;
 }
 
+
 .source_link:hover:after {
 	transform: scaleX(1);
 	transform-origin: bottom left;
@@ -60,8 +61,6 @@ section{
 .section-3 {
 	background-color: rgb(44, 62, 80);
 }
-
-
 
 
 
