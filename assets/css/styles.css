@@ -49,17 +49,17 @@ section{
 
 
 .section-1 {
-	background: rgb(26, 188, 156);
+	background: #6E61CA;
 	text-align: center;
 }
 
 .section-2 {
-	background-color: rgb(255, 255, 255);
+	background-color: #EBEDEE;
 	
 }
 
 .section-3 {
-	background-color: rgb(44, 62, 80);
+	background-color: #243D66;
 }
 
 
@@ -92,7 +92,8 @@ a.nav-item:hover {
 .words_title {
 	color: white;
 	font-size: 60px;
-	font-family: 'Bebas Neue', cursive;
+	font-family: 'Asap', sans-serif;
+	font-family: 'Mulish', sans-serif;
 }
 
 
